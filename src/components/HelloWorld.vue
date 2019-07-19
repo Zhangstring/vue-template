@@ -43,7 +43,7 @@ export default {
   },
   methods: {
     click () {
-      if (this.msg === '1') {
+      if (this.msg == '1') {
         console.log(1)
       }
     }
